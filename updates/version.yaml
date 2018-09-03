@@ -1,0 +1,15 @@
+1.0.1: Initialize devnull.main
+1.0.2:
+  - First version of devnull.main
+  - Created Console Command to set theme
+  - Create tables for authentication
+  - create_all_table.php
+  - Add seed data for agents table.
+  - seed_all_table.php
+1.0.2.1: Added Breadcrumbs functions
+1.0.2.1: Added CookiesNotification functions
+1.0.2.2: Added Google Tag Manager functions
+1.0.2.3: Added Fav Icon Logo Manager functions
+1.0.2.4: Added Robot Tag Manager functions
+1.0.2.5: Added Google Robots and Humans.txt Functions
+1.0.2.6: Added Sitemap.xml Functions
