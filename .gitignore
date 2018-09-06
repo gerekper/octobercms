@@ -19,3 +19,7 @@ storage/logs/
 storage/temp/
 themes/vojtasvoboda-newage/
 
+components/
+controllers/
+models/
+reportwidgets/
